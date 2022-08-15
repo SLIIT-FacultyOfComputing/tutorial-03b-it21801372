@@ -12,7 +12,7 @@ Use your Repl.IT account and use the Instructions provided by your Instructors t
 Modify the program to produce the output given below (don't print the first two lines and the blank line).
 You have to use the following commands in the <iomanip> header file
 
-  ```c++
+```c++
 #include <iostream>
 using namespace std;
 int main() {
